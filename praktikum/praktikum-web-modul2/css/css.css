@@ -1,0 +1,142 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #ececec;
+}
+
+/* Header */
+#header{
+    background: linear-gradient(135deg, #0e55c9, #4188fa);
+    padding: 40px 20px;
+    text-align: left;
+    color: white;
+}
+
+#header h1{
+    margin: 0;
+    font-size: 38px;
+}
+
+#header p{
+    margin-top: 10px;
+    opacity: 0.9;
+}
+
+/* Navbar */
+#menubar{
+    background: rgb(5, 53, 142);
+    padding: 15px;
+    text-align: center;
+}
+
+/* Menu */
+.teksMenu{
+    text-decoration: none;
+    color: #93bdf4;
+    margin: 0 20px;
+    font-weight: 600;
+    position: relative;
+}
+
+.teksMenu::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background: #ffffff;
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+
+.teksMenu:hover::after{
+    width: 100%;
+}
+
+.teksMenu:hover{
+    color: #ffffff;
+}
+
+
+/* konten */
+#konten{
+    color: #000000;
+    max-width: 1170px;
+    margin: 40px auto;
+    padding: 40px;
+    background: #f8fafc;
+    border-radius: 15px;
+    text-align: center;
+}
+
+/* Paragraf */
+p{
+    line-height: 1.7;
+}
+
+/* Wrapper Card */
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Card */
+.card{
+    width: 400px;
+    margin: 20px;
+    padding: 25px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+    transition: 0.3s;
+    text-align: left;
+}
+
+.card:hover{
+    transform: translateY(-10px) scale(1.03);
+}
+
+/* Judul Card */
+.card h3{
+    margin-top: 0;
+    color: #3b82f6;
+    text-align: center;
+}
+
+/* List Link Praktikum */
+.card a{
+    display: block;
+    text-decoration: none;
+    color: #1e293b;
+    padding: 8px 12px;
+    margin: 6px 0;
+    border-radius: 8px;
+    background: #f1f5f9;
+    transition: 0.3s;
+    font-size: 14px;
+}
+
+.card a:hover{
+    background: #3b82f6;
+    color: white;
+    transform: translateX(5px);
+}
+
+/* Deskripsi */
+.card p{
+    margin-top: 12px;
+    font-size: 14px;
+    color: #475569;
+    text-align: center;
+}
+
+/* Footer */
+#footer{
+    text-align: center;
+    padding: 25px;
+    color: #64748b;
+    font-size: 14px;
+    margin-top: 30px;
+}

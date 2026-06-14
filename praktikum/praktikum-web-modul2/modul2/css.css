@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: justify;
+}
+
+#box {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+#header {
+    color: #e4e4e4;
+    background-color: #0e55c9;
+    padding: 20px;
+}
+
+#menubar {
+    background-color: #0404f3;
+    margin: auto;
+}
+
+.teksmenu {
+    color: #e4e4e4;
+    text-decoration: none;
+}
+
+#konten {
+    padding: 20px;
+}
+
+#footer {
+    color: #e4e4e4;
+    text-align: center;
+    background-color: #0e55c9;
+    padding: 20px;
+}
