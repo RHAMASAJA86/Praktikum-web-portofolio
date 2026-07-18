@@ -291,7 +291,7 @@
                     <!-- KIRI: Foto -->
                     <div class="col-lg-5 col-md-6 photo-wrapper" data-aos="fade-right" data-aos-duration="1000">
                         <div class="photo-ring">
-                            <img src="img/profil.png" alt="Foto Ubaydillah"
+                            <img src="img/profile.png" alt="Foto Ubaydillah"
                                  onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
                             <i class="bi bi-person-fill photo-placeholder" style="display:none;"></i>
                         </div>
@@ -482,9 +482,9 @@
                         <h5 class="text-center text-primary fw-bold mb-4">
                             <i class="bi bi-folder2-open me-2"></i>Modul 1
                         </h5>
-                        <a href="praktikum/Praktikum-web-modul1/modul1/prak1_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
-                        <a href="praktikum/Praktikum-web-modul1/modul1/prak2_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
-                        <a href="praktikum/Praktikum-web-modul1/modul1/prak3_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <a href="praktikum/Praktikum-web-modul01/modul1/prak1_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/Praktikum-web-modul01/modul1/prak2_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/Praktikum-web-modul01/modul1/prak3_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
                         <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
                     </div>
                 </div>
@@ -495,10 +495,10 @@
                         <h5 class="text-center text-primary fw-bold mb-4">
                             <i class="bi bi-folder2-open me-2"></i>Modul 2
                         </h5>
-                        <a href="praktikum/praktikum-web-modul2/modul2/prak1_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
-                        <a href="praktikum/praktikum-web-modul2/modul2/prak2_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
-                        <a href="praktikum/praktikum-web-modul2/modul2/prak3_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
-                        <a href="praktikum/praktikum-web-modul2/modul2/prak4_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 4</a>
+                        <a href="praktikum/Praktikum-web-modul02/modul2/prak1_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/Praktikum-web-modul02/modul2/prak2_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/Praktikum-web-modul02/modul2/prak3_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <a href="praktikum/Praktikum-web-modul02/modul2/prak4_ubay.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 4</a>
                         <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
                     </div>
                 </div>
@@ -509,10 +509,10 @@
                         <h5 class="text-center text-primary fw-bold mb-4">
                             <i class="bi bi-folder2-open me-2"></i>Modul 3
                         </h5>
-                        <a href="praktikum/praktikum-web-modul3/biodata.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
-                        <a href="praktikum/praktikum-web-modul3/tugas_pertama.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
-                        <a href="praktikum/praktikum-web-modul3/tugas_kedua.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
-                        <a href="praktikum/praktikum-web-modul3/ketiga.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 4</a>
+                        <a href="praktikum/Praktikum-web-modul03/modul3/biodata.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/Praktikum-web-modul03/modul3/tugas_pertama.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/Praktikum-web-modul03/modul3/tugas_kedua.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <a href="praktikum/Praktikum-web-modul03/modul3/ketiga.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 4</a>
                         <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
                     </div>
                 </div>
@@ -523,10 +523,10 @@
                         <h5 class="text-center text-primary fw-bold mb-4">
                             <i class="bi bi-folder2-open me-2"></i>Modul 4
                         </h5>
-                        <a href="praktikum/praktikum_web_modul4/kondisi.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
-                        <a href="praktikum/praktikum_web_modul4/kondisi1.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
-                        <a href="praktikum/praktikum_web_modul4/kondisi2.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
-                        <a href="praktikum/praktikum_web_modul4/kondisi3.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 4</a>
+                        <a href="praktikum/Praktikum-web-modul04/modul4/kondisi.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/Praktikum-web-modul04/modul4/kondisi1.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/Praktikum-web-modul04/modul4/kondisi2.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <a href="praktikum/Praktikum-web-modul04/modul4/kondisi3.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 4</a>
                         <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
                     </div>
                 </div>
@@ -537,9 +537,9 @@
                         <h5 class="text-center text-primary fw-bold mb-4">
                             <i class="bi bi-folder2-open me-2"></i>Modul 5
                         </h5>
-                        <a href="praktikum/praktikum_web_modul5/tugas1.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
-                        <a href="praktikum/praktikum_web_modul5/tugas2.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
-                        <a href="praktikum/praktikum_web_modul5/tugas3.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <a href="praktikum/Praktikum-web-modul05/modul5/tugas1.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/Praktikum-web-modul05/modul5/tugas2.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/Praktikum-web-modul05/modul5/tugas3.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
                         <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
                     </div>
                 </div>
@@ -550,9 +550,9 @@
                         <h5 class="text-center text-primary fw-bold mb-4">
                             <i class="bi bi-folder2-open me-2"></i>Modul 6
                         </h5>
-                        <a href="praktikum/praktikum_web_modul6/array1.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
-                        <a href="praktikum/praktikum_web_modul6/array2.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
-                        <a href="praktikum/praktikum_web_modul6/array3.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <a href="praktikum/Praktikum-web-modul06/modul6/array1.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/Praktikum-web-modul06/modul6/array2.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/Praktikum-web-modul06/modul6/array3.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
                         <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
                     </div>
                 </div>
@@ -563,9 +563,22 @@
                         <h5 class="text-center text-primary fw-bold mb-4">
                             <i class="bi bi-folder2-open me-2"></i>Modul 7
                         </h5>
-                        <a href="praktikum/praktikum-web-modul7/form_text.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
-                        <a href="praktikum/praktikum-web-modul7/kalkulator.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
-                        <a href="praktikum/praktikum-web-modul7/form_login.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <a href="praktikum/praktikum-web-modul07/form_text.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/praktikum-web-modul07/kalkulator.html" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/praktikum-web-modul07/form_login.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
+                        <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
+                    </div>
+                </div>
+
+                <!-- Modul 8 -->
+                <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card-porto p-4 h-100">
+                        <h5 class="text-center text-primary fw-bold mb-4">
+                            <i class="bi bi-folder2-open me-2"></i>Modul 8
+                        </h5>
+                        <a href="praktikum/praktikum-web-modul08/tugas/tugas1.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 1</a>
+                        <a href="praktikum/praktikum-web-modul08/function2.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 2</a>
+                        <a href="praktikum/praktikum-web-modul08/function.php" class="prak-link"><i class="bi bi-file-earmark-code me-2 text-primary"></i>Praktikum 3</a>
                         <p class="mt-4 small text-center" style="color:#64748b;">Penggunaan CSS untuk mengatur tampilan dan layout.</p>
                     </div>
                 </div>
